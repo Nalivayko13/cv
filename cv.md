@@ -25,3 +25,10 @@ textFieldResult.setText("0");
 }
 });
 ```
++ _Education:_
+
+Lectures on C++ and Java at a higher education institution.
+
++ _English:_
+
+A2-B1 level
