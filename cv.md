@@ -2,14 +2,15 @@
 ------
 + _My contacts:_
 
-Email: nalivayko.popalina@gmail.com
+Email: nalivayko0428@gmail.com
+phone number : +375291218072
 
 
 + _About me:_
 I study at BSU at the Faculty of Radiophysics and Computer Technologies. My _goal_ on this project is to try to reach a successful end and get a tremendous experience for myself.
 
 + _Skills:_
-C++ Java Git
+C++ Java Git kotlin
 
 
 + _Code examples:_
@@ -31,4 +32,4 @@ Lectures on C++ and Java at a higher education institution.
 
 + _English:_
 
-A2-B1 level
+A2 level
