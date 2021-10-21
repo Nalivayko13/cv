@@ -7,7 +7,7 @@ phone number : +375291218072
 
 
 + _About me:_
-I study at BSU at the Faculty of Radiophysics and Computer Technologies. My _goal_ on this project is to try to reach a successful end and get a tremendous experience for myself.
+I study at BSU at the Faculty of Radiophysics and Computer Technologies. My _goal_ on this project is to try to reach a successful end, get a tremendous experience for myself and discover something new.
 
 + _Skills:_
 C++ Java Git kotlin
