@@ -1,1 +1,1 @@
-https://nalivayko13.github.io/cv
+https://nalivayko13.github.io/-cv/cv
